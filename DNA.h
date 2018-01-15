@@ -1,7 +1,7 @@
 #ifndef DNA_H_
 #define DNA_H_
 
-#include "../Vector/vector.h"
+#include "../c-vector-lib/vector.h"
 #include <math.h>
 #define LIFE_SPAN 400
 

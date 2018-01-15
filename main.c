@@ -63,7 +63,6 @@ int main(int argc, char* argv[]) {
 		return -1;
 	}
 
-	al_set_new_display_option(ALLEGRO_VSYNC, 1, ALLEGRO_REQUIRE);
 
 	display = al_create_display(WIDTH, HEIGHT);
 

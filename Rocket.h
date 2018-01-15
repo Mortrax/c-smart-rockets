@@ -1,6 +1,6 @@
 #ifndef ROCKET_H_
 #define ROCKET_H_
-#include "../Vector/vector.h"
+#include "../c-vector-lib/vector.h"
 #include "DNA.h"
 #include <math.h>
 typedef struct Rocket {
